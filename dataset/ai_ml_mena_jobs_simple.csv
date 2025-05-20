@@ -1,0 +1,21 @@
+title,company,location,platform,posted_date,description,skills,experience
+AI Researcher,DataMind,Saudi Arabia,LinkedIn,2025-05-18,Deep learning experience with Keras and computer vision is a plus.,['keras'],Senior
+Data Analyst,AIWorks,Jordan,Bayt,2025-04-28,"Must know Scikit-learn, Excel, and data visualization tools.","['scikit-learn', 'excel']",Mid-level
+Machine Learning Engineer,AIWorks,Jordan,Glassdoor,2025-05-16,"We need someone skilled in Python, TensorFlow, and cloud computing.","['python', 'tensorflow', 'cloud']",Junior
+Machine Learning Engineer,VisionAI,Jordan,Bayt,2025-05-19,"Strong PyTorch, NLP, and CI/CD experience required.","['pytorch', 'nlp', 'ci/cd']",Senior
+Data Analyst,AIWorks,Egypt,Wuzzuf,2025-05-17,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Mid-level
+Data Analyst,DataMind,Saudi Arabia,Glassdoor,2025-04-29,Deep learning experience with Keras and computer vision is a plus.,['keras'],Senior
+AI Researcher,AIWorks,Saudi Arabia,LinkedIn,2025-04-23,"Strong PyTorch, NLP, and CI/CD experience required.","['pytorch', 'nlp', 'ci/cd']",Mid-level
+Data Scientist,NeuroNet,Qatar,Wuzzuf,2025-04-25,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Mid-level
+Machine Learning Engineer,AIWorks,Jordan,Wuzzuf,2025-05-05,"Must know Scikit-learn, Excel, and data visualization tools.","['scikit-learn', 'excel']",Senior
+MLOps Engineer,AIWorks,Qatar,LinkedIn,2025-05-07,Deep learning experience with Keras and computer vision is a plus.,['keras'],Senior
+MLOps Engineer,NeuroNet,UAE,Bayt,2025-05-18,"Must know Scikit-learn, Excel, and data visualization tools.","['scikit-learn', 'excel']",Senior
+AI Researcher,TechX,Jordan,Glassdoor,2025-05-09,"Strong PyTorch, NLP, and CI/CD experience required.","['pytorch', 'nlp', 'ci/cd']",Mid-level
+AI Researcher,AIWorks,Saudi Arabia,LinkedIn,2025-05-06,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Junior
+Data Scientist,VisionAI,Jordan,LinkedIn,2025-05-09,"We need someone skilled in Python, TensorFlow, and cloud computing.","['python', 'tensorflow', 'cloud']",Senior
+Data Analyst,DataMind,Saudi Arabia,LinkedIn,2025-04-20,"Must know Scikit-learn, Excel, and data visualization tools.","['scikit-learn', 'excel']",Senior
+AI Researcher,DataMind,UAE,Glassdoor,2025-05-15,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Senior
+AI Researcher,AIWorks,Egypt,Glassdoor,2025-04-24,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Senior
+AI Researcher,AIWorks,Saudi Arabia,LinkedIn,2025-05-19,"Must know Scikit-learn, Excel, and data visualization tools.","['scikit-learn', 'excel']",Mid-level
+MLOps Engineer,DataMind,Jordan,Wuzzuf,2025-05-03,"We need someone skilled in Python, TensorFlow, and cloud computing.","['python', 'tensorflow', 'cloud']",Senior
+MLOps Engineer,DataMind,Qatar,LinkedIn,2025-05-10,"Looking for an AI expert with SQL, Spark, and AWS experience.","['sql', 'aws', 'spark']",Senior
