@@ -1,0 +1,22 @@
+{
+  "top_titles": "title\nNlp Specialist               16\nMachine Learning Engineer    14\nComputer Vision Engineer     11\nAi Product Manager           11\nAi Researcher                10\nData Engineer                10\nMlops Engineer                9\nData Analyst                  7\nData Scientist                2\nName: count, dtype: int64",
+  "top_companies": "company\nCantrell, Chen and Stephens       5\nJacobs-Watts                      4\nRobbins, Gordon and Lee           4\nMatthews, Perez and George        3\nErickson, Allen and Noble         3\nCunningham LLC                    3\nEaton, Kaufman and Brown          3\nElliott, Johnson and Mcpherson    3\nJones Inc                         3\nWilliams-Smith                    3\nName: count, dtype: int64",
+  "locations": "location\nSaudi Arabia    16\nBahrain         14\nUAE             13\nOman            12\nJordan          11\nEgypt            9\nKuwait           8\nQatar            7\nName: count, dtype: int64",
+  "experience_levels": "experience\nNot Specified    73\nSenior            7\nMid-level         6\nJunior            4\nName: count, dtype: int64",
+  "platforms": "platform\nLinkedIn      15\nBayt          15\nWuzzuf        15\nGlassdoor     15\nNaukrigulf    15\nGulfTalent    15\nName: count, dtype: int64",
+  "top_skills": "skills\ntensorflow      25\nsql             25\npython          22\npytorch         21\naws             21\nnlp             15\nspark           14\nkeras           13\ncloud           13\nexcel           11\nscikit-learn    11\nci/cd            9\nName: count, dtype: int64",
+  "ML Frameworks_demand": "70",
+  "Cloud_demand": "34",
+  "Data Engineering_demand": "50",
+  "DevOps_demand": "9",
+  "avg_salary_by_title": "title\nData Analyst                 39.000000\nComputer Vision Engineer     38.090909\nAi Researcher                37.300000\nData Scientist               37.250000\nMlops Engineer               36.222222\nNlp Specialist               35.906250\nData Engineer                35.000000\nMachine Learning Engineer    34.285714\nAi Product Manager           32.818182\nName: salary_avg, dtype: float64",
+  "avg_salary_by_exp": "experience\nMid-level        37.083333\nNot Specified    36.294521\nSenior           32.785714\nJunior           32.375000\nName: salary_avg, dtype: float64",
+  "avg_salary_by_location": "location\nUAE             40.384615\nOman            36.916667\nJordan          36.909091\nBahrain         36.678571\nSaudi Arabia    34.375000\nKuwait          34.250000\nQatar           33.071429\nEgypt           32.000000\nName: salary_avg, dtype: float64",
+  "postings_over_time": "posting_week\n2025-04-21/2025-04-27    19\n2025-04-28/2025-05-04    21\n2025-05-05/2025-05-11    22\n2025-05-12/2025-05-18    22\n2025-05-19/2025-05-25     6\nFreq: W-SUN, dtype: int64",
+  "remote_ratio": "remote\nTrue     0.511111\nFalse    0.488889\nName: proportion, dtype: float64",
+  "sentiment": {
+    "average_sentiment": 0.13444444444444445,
+    "positive_ratio": 0.24444444444444444,
+    "negative_ratio": 0.0
+  }
+}

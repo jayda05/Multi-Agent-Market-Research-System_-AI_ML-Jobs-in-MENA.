@@ -1,0 +1,41 @@
+{
+  "top_roles": {
+    "AI Researcher": 7,
+    "Data Analyst": 4,
+    "MLOps Engineer": 4,
+    "Machine Learning Engineer": 3,
+    "Data Scientist": 2
+  },
+  "top_skills": {
+    "spark": 6,
+    "sql": 6,
+    "aws": 6,
+    "scikit-learn": 5,
+    "excel": 5,
+    "keras": 3,
+    "python": 3,
+    "tensorflow": 3,
+    "nlp": 3,
+    "pytorch": 3,
+    "cloud": 3,
+    "ci/cd": 3
+  },
+  "locations": {
+    "Jordan": 7,
+    "Saudi Arabia": 6,
+    "Qatar": 3,
+    "Egypt": 2,
+    "UAE": 2
+  },
+  "experience_levels": {
+    "Senior": 12,
+    "Mid-level": 6,
+    "Junior": 2
+  },
+  "platforms": {
+    "LinkedIn": 8,
+    "Glassdoor": 5,
+    "Wuzzuf": 4,
+    "Bayt": 3
+  }
+}
